@@ -1,0 +1,17 @@
+# Logs
+*.log
+work/*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Work folder (scripts intermedi)
+work/
+!work/run_app.py
+
+# PNG di debug
+*.png
+
+# GTFS zip (generabile)
+gtfs/gtfs_stp_brindisi.zip
